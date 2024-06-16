@@ -1,7 +1,7 @@
 
 # Uruchomienie projektu
 
-## Uruchom Frontend
+## Uruchomienie Frontend
 
 1. Otwórz terminal.
 
