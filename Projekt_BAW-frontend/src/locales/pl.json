@@ -1,0 +1,125 @@
+{
+	"navbar.home": "Strona główna",
+	"navbar.bookCars": "Zarezerwuj",
+	"navbar.profile": "Panel użytkownika",
+	"navbar.dashboard": "Panel administratora",
+	"homePageText.spanTitle": "Wypożycz samochód",
+	"homePageText.title": " i znajdź z nami świetne oferty",
+	"homePageText.description": "Wybieraj z kolekcji zupełnie nowych samochodów, niskie ceny są częścią naszej codziennej oferty.",
+	"homePageText.button": "Zarezerwuj online już teraz!",
+	"featuredVehicles.title": "Posiadane samochody",
+	"featuredVehicles.description": "Współpracujemy z klientami na całym świecie.",
+	"whyChooseUs.title": "Dlaczego my",
+	"whyChooseUs.description": "Doświadcz bezproblemowego wynajmu samochodów z wyjątkową obsługą i szerokim wyborem pojazdów.",
+	"whyChooseUs.features": [
+		{
+			"title": "Szeroki wybór samochodów",
+			"description": "Oferujemy zróżnicowaną gamę samochodów dostosowanych do twoich potrzeb i preferencji. Niezależnie od tego, czy szukasz kompaktowego samochodu do jazdy po mieście, czy przestronnego SUV-a na rodzinną wycieczkę, mamy szeroki wybór pojazdów."
+		},
+		{
+			"title": "Konkurencyjne ceny",
+			"description": "Zapewniamy konkurencyjne ceny, które pasują do każdego budżetu. Nasz przejrzysty cennik zapewnia najlepszą cenę bez kompromisów w zakresie jakości i usług."
+		},
+		{
+			"title": "Łatwy proces rezerwacji",
+			"description": "Nasz łatwy w obsłudze system rezerwacji online sprawia, że rezerwacja wybranego samochodu jest szybka i wygodna. Wystarczy kilka kliknięć, aby z łatwością wybrać miejsce odbioru, preferowany samochód i zarezerwować go na wybrany termin."
+		},
+		{
+			"title": "Zaufanie i niezawodność",
+			"description": "Dzięki wieloletniemu doświadczeniu w branży wynajmu samochodów zyskaliśmy reputację firmy godnej zaufania i niezawodnej. Możesz na nas polegać, jeśli chodzi o zapewnienie wysokiej jakości pojazdów, doskonałej obsługi i bezproblemowego wynajmu."
+		}
+	],
+	"clientSpeak.title": "Co o nas mówią klienci",
+	"clientSpeak.description": "Współpracujemy z klientami na całym świecie.",
+	"clientSpeak.testimonials": [
+		{
+			"heading": "Efektywna współpraca",
+			"text": "Znakomite doświadczenie z wynajmem samochodu. Imponująca praca zespołowa i koordynacja. Bezproblemowy proces, gorąco polecam.",
+			"name": "Anna Czarny",
+			"title": "Właściciel firmy XYZ"
+		},
+		{
+			"heading": "Intuicyjny wygląd",
+			"text": "Wyjątkowe doświadczenie użytkownika. Intuicyjny design umożliwiający łatwą nawigację, zapewniający płynną i przyjazną interfejs użytkownika.",
+			"name": "Janina Łania",
+			"title": "Menadżer marketingu"
+		},
+		{
+			"heading": "Niesamowita obsługa",
+			"text": "Niesamowita obsługa, która przekracza oczekiwania. Niezrównana dbałość o szczegóły. Doświadczenie serwisowe jak żadne inne.",
+			"name": "Joanna Miedź",
+			"title": "Posiadaczka małego biznesu"
+		}
+	],
+	"footer.about": "O ResCars",
+	"footer.aboutDescription": "„Szeroki wybór pojazdów, konkurencyjne ceny, aby Twoje doświadczenie było przyjemne.",
+	"footer.company": "Firma",
+	"footer.blog": "Blog",
+	"footer.aboutUs": "O nas",
+	"footer.contactUs": "Kontakt",
+	"footer.legal": "Informacje prawne",
+	"footer.cookiesPolicy": "Polityka ciasteczek",
+	"footer.privacyPolicy": "Polityka prywatności",
+	"footer.termsOfService": "Warunki użytkowania",
+	"footer.installApp": "Zainstaluj aplikacje",
+	"footer.copyright": "© Copyright. Wszelkie Prawa Zastrzeżone.",
+	"navbarLoginButtons.login": "Zaloguj",
+	"navbarLoginButtons.signup": "Zarejestruj się za darmo",
+	"linkItems.home": "Strona Główna",
+	"linkItems.bookCars": "Zarezerwuj",
+	"linkItems.dashboard": "Panel",
+	"linkItems.aboutUs": "O nas",
+	"linkItems.termsOfService": "Warunki użytkowania",
+	"menuList.home": "Strona Główna",
+	"menuList.english": "English",
+	"menuList.polish": "Polski",
+	"menuList.profile": "Profil",
+	"menuList.logout": "Wylogowanie",
+	"searchInput": "Szukaj ...",
+	"carCard": {
+		"rentNow": "Wynajmij już teraz",
+		"perDay": "/dzień",
+		"gearbox": "Skrzynia biegów",
+		"type": "Typ",
+		"available": "Dostepność",
+		"automatic": "Automatyczna",
+		"manuel": "Manualna",
+		"petrol": "Benzyna",
+		"diesel": "Olej Napędowy",
+		"yes": "Tak",
+		"no": "Nie",
+		"confirmRent": "Potwierdź wynajęcie"
+	},
+	"profile": {
+		"heading": "Lista twoich wynajęć",
+		"brand": "Marka",
+		"model": "Model",
+		"type": "Typ",
+		"price": "Cena",
+		"gearbox": "Skrzynia biegów",
+		"rentalDate": "Data wynajęcia",
+		"returnDate": "Data zwrotu",
+		"noData": "Brak możliwości wypożyczenia.",
+		"editProfile": "Edytuj profil",
+		"modifyProfile": "Modyfikuj profil",
+		"firstname": "Imie",
+		"lastname": "Nazwisko",
+		"phoneNumber": "Nr telefonu",
+		"cancel": "Anuluj",
+		"save": "Zapisz"
+	},
+	"form": {
+		"firstname": "Imie",
+		"lastname": "Nazwisko",
+		"telephone": "Nr telefonu",
+		"email": "Email",
+		"password": "Hasło",
+		"createAccount": "Utwórz konto",
+		"signIn": "Zaloguj",
+		"welcome": "Witamy w ResCars",
+		"loginMessage": "Nie masz jeszcze założonego konta?",
+		"signupMessage": "Czy już użytkownik?"
+	},
+	"header.greeting": "Witaj, Admin",
+	"header.logout": "Wyloguj"
+}
