@@ -7,7 +7,7 @@
 
 2. Przejdź do folderu `Projekt_BAW-frontend` projektu:
    ```bash
-   cd Frontend
+   cd Projekt_BAW-frontend
    ```
 
 3. Zainstaluj zależności i uruchom aplikację:
@@ -24,7 +24,7 @@
 
 2. Przejdź do folderu `Projekt_BAW-backend` projektu:
    ```bash
-   cd ../Backend
+   cd ../Projekt_BAW-backend
    ```
 
 3. Zainstaluj zależności backendu:
