@@ -1,6 +1,12 @@
 
 # Uruchomienie projektu
 
+## Uruchomienie bazy danych
+
+1. Utwórz bazę danych o nazwie car_rental_system
+
+2. Zaimportuj plik car_rental_system.sql
+
 ## Uruchomienie Frontend
 
 1. Otwórz terminal.
