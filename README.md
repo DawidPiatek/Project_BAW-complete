@@ -5,7 +5,7 @@
 
 1. Otwórz terminal.
 
-2. Przejdź do folderu `Frontend` projektu:
+2. Przejdź do folderu `Projekt_BAW-frontend` projektu:
    ```bash
    cd Frontend
    ```
@@ -22,7 +22,7 @@
 
 1. Otwórz inny terminal.
 
-2. Przejdź do folderu `Backend` projektu:
+2. Przejdź do folderu `Projekt_BAW-backend` projektu:
    ```bash
    cd ../Backend
    ```
