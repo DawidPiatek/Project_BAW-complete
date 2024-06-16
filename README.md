@@ -32,7 +32,7 @@
    composer install
    ```
 
-4. Uruchom serwer backedn:
+4. Uruchom serwer backend:
    ```bash
    php artisan serve
    ```
