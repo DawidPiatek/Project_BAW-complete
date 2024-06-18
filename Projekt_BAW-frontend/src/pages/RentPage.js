@@ -155,7 +155,7 @@ function Rent() {
 									<Text fontWeight='600' color='gray.600'>
 										{car.gearbox === 'automatic' || car.gearbox === 'manual'
 											? t(`carCard.${car.gearbox.toLowerCase()}`)
-											: car.fuel_type}
+											: car.gearbox}
 									</Text>
 								</GridItem>
 								<GridItem>
@@ -181,14 +181,14 @@ function Rent() {
 
 							<HStack w={'full'} justify={'space-between'}>
 								<Text fontWeight='600' color='gray.600'>
-									Total
+									Razem
 								</Text>
 								<Spacer />
 								<Text color='gray.600' fontSize='2xl' fontWeight={['bold', 'extrabold']}>
-									${totalPrice.toFixed(2)}
+									{totalPrice.toFixed(2)}
 								</Text>
 								<Text ml={2} fontSize='xl' fontWeight='medium' color='gray.500'>
-									USD
+									PLN
 								</Text>
 							</HStack>
 							<Button onClick={rentACar} w={'full'}>
